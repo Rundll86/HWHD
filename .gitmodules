@@ -1,3 +1,6 @@
 [submodule "nine9"]
 	path = nine9
 	url = https://github.com/Rundll86/nine
+[submodule "cosl"]
+	path = cosl
+	url = https://github.com/Rundll86/CoSL-EXTRACTED
